@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jan Yuri Reyes</h1>
-<h3 align="center">Bachelor of Science in Computer Science @ <img src="https://www.ama.edu.ph/wp-content/uploads/2017/05/Site_icon_512pix.jpg" width="30"> AMA Computer College La Union</h3>
+<h1 align="center">Yuri Reyes</h1>
+<h3 align="center">Bachelor of Science in Computer Science @ AMA Computer College La Union</h3>
 <h3 align="left"></h3>
 <p align="left">
 </p>
