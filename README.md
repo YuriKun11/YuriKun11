@@ -4,6 +4,12 @@
 <p align="left">
 </p>
 
+# My Channel Views on Hanime.tv
+
+[![Channel Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Channel%20Views&query=%24.channel_views&url=https%3A%2F%2Fhanime.tv%2Fapi%2Fv5%2Fsite%3Fusername%3DKurumeow%230503)](https://hanime.tv)
+
+
+
 <div class="center">
   <h4>👨‍💻 I primarily use Java, crafting clean and efficient code.</h4>
   <h4>🖥️ Harnessing React.js for slick and user-friendly GUIs.</h4>
