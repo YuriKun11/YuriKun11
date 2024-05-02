@@ -4,11 +4,6 @@
 <p align="left">
 </p>
 
-# My Channel Views on Hanime.tv
-
-[![Channel Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Channel%20Views&query=%24.channel_views&url=https%3A%2F%2Fhanime.tv%2Fapi%2Fv5%2Fsite%3Fusername%3DKurumeow%230503)](https://hanime.tv/channels/kurumeow-0503)
-
-
 
 
 
