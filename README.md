@@ -4,7 +4,6 @@
 <p align="left">
 </p>
 
-<h3 align="center">I play & make beats and code stuff</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepremz&abbreviated=true" alt="seen" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="160" width="160" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/959716048075296014/6E0EB84D32090719B68289BB3F6A3A977F039D6C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
@@ -12,7 +11,7 @@
 
 
 <div class="center">
-  <h4>👨‍💻 I primarily use C++, crafting clean and efficient code.</h4>
+  <h4>👨‍💻 I primarily use Java, crafting clean and efficient code.</h4>
   <h4>🖥️ Harnessing C# for slick and user-friendly GUIs.</h4>
   <h4>🐍 Playfully dabbling in Python for evil tricks xD.</h4>
   <h4>💡 Coding with precision, creativity, and a touch of mischief.</h4>
