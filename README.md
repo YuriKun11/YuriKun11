@@ -5,8 +5,10 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="160" width="160" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/959716048075296014/6E0EB84D32090719B68289BB3F6A3A977F039D6C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+  <img align="right" top="500" height="160" width="160" alt="Discord DP" src="https://cdn.discordapp.com/avatars/747392017679515678/b1b70a2a3037ca84b67cd2c1b3a5aa9d.webp?size=128">
 </a>
+
+
 
 
 
