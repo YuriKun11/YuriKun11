@@ -4,10 +4,6 @@
 <p align="left">
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="160" width="160" alt="Discord DP" src="https://cdn.discordapp.com/avatars/747392017679515678/b1b70a2a3037ca84b67cd2c1b3a5aa9d.webp?size=128">
-</a>
-
 
 
 
