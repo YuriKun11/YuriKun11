@@ -3,14 +3,7 @@
 <h3 align="left"></h3>
 <p align="left">
 </p>
-
-
-
-
-
-<div class="center">
-  <h4>👨‍💻 I primarily use Java</h4>
-</div>
+<br>
 
     
 <h3 align="left">Languages and Tools:</h3>
