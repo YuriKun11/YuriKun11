@@ -12,5 +12,8 @@
                 <td><a href="https://github.com/YuriKun11/pybot">Discord Bot</a> - Anime Sauce Bot</td>
                 <td><a href="https://github.com/YuriKun11/Simple-Email-Service">Email Service</a> - Email Service For your website</td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/YuriKun11/pytranslate-bot">Discord Bot</a> - Translator Bot</td>
+            </tr>
         </tbody>
 </table>
