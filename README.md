@@ -23,7 +23,7 @@
             <td><a href="#">comming soon</a> - </td>
         </tr>
         <tr>
-            <td><a href="#">comming soon</a> - Chat embeddings&amp;switch package</td>
+            <td><a href="#">comming soon</a> - comming soon</td>
             <td><a href="#">comming soon</a> - comming soon</td>
         </tr>
         <tr>
