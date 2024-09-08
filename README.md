@@ -37,11 +37,11 @@
 <table align="start">
         <tbody>
             <tr>
-                <td><a href="https://github.com/YuriKun11/pybot">Discord Bot</a> - Anime Sauce Bot</td>
+                <td><a href="https://github.com/YuriKun11/pybot">Discord Anime Bot</a> - Sauce Bot</td>
                 <td><a href="https://github.com/YuriKun11/Simple-Email-Service">Email Service</a> - Email Service For your website</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/YuriKun11/pytranslate-bot">Discord Bot</a> - En to Jp Translator Bot</td>
+                <td><a href="https://github.com/YuriKun11/pytranslate-bot">Discord Translator Bot</a> - En|Jp Translator</td>
             </tr>
         </tbody>
 </table>
