@@ -12,22 +12,22 @@
 <table align="center">
         <tbody><tr>
             <td><a href="https://github.com/YuriKun11/pybot">Discord Bot</a> - Anime Sauce Bot</td>
-            <td><a href="#">esh</a> - </td>
+            <td><a href="https://github.com/YuriKun11/Simple-Email-Service">Email Service</a> - Email Service For your website</td>
         </tr>
         <tr>
-            <td><a href="#">rsm</a> - RSS subscription function aggregation tool,</td>
-            <td><a href="#">obsidian image plugin</a> - Upload images from your clipboard obsidian plugin</td>
+            <td><a href="#">comming soon</a> - </td>
+            <td><a href="#">comming soon</a> - </td>
         </tr>
         <tr>
-            <td><a href="#">qcow2file</a> - Generate qcow2 image from dockerfile</td>
-            <td><a href="#">ai with wechat</a> - WeChat chat robot uses various AI</td>
+            <td><a href="#">comming soon</a> - </td>
+            <td><a href="#">comming soon</a> - </td>
         </tr>
         <tr>
-            <td><a href="#">chat-switch lib</a> - Chat embeddings&amp;switch package</td>
-            <td><a href="#">govirsh</a> - Virsh go package</td>
+            <td><a href="#">comming soon</a> - Chat embeddings&amp;switch package</td>
+            <td><a href="#">comming soon</a> - comming soon</td>
         </tr>
         <tr>
-            <td><a href="#">ai chat WeChat applet</a> - Ai chat with ltrobot</td>
-            <td><a href="#">gnome-extension-wakwaka</a> - Gnome-extension</td>
+            <td><a href="#">comming soont</a> - comming soon</td>
+            <td><a href="#">comming soon</a> - comming soon</td>
         </tr>
     </tbody></table>
