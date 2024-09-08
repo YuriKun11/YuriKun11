@@ -11,18 +11,18 @@
     
 <h3 align="left">Projects</h3>
 
-<table width="100%" style="table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center" width="50%"><a href="https://link-to-project1.com" target="_blank">Project 1</a></td>
-    <td align="center" width="50%"><a href="https://link-to-project4.com" target="_blank">Project 4</a></td>
+    <td style="width: 50%; text-align: center;"><a href="https://link-to-project1.com" target="_blank">Project 1</a></td>
+    <td style="width: 50%; text-align: center;"><a href="https://link-to-project4.com" target="_blank">Project 4</a></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="https://link-to-project2.com" target="_blank">Project 2</a></td>
-    <td align="center" width="50%"><a href="https://link-to-project5.com" target="_blank">Project 5</a></td>
+    <td style="width: 50%; text-align: center;"><a href="https://link-to-project2.com" target="_blank">Project 2</a></td>
+    <td style="width: 50%; text-align: center;"><a href="https://link-to-project5.com" target="_blank">Project 5</a></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="https://link-to-project3.com" target="_blank">Project 3</a></td>
-    <td align="center" width="50%"><a href="https://link-to-project6.com" target="_blank">Project 6</a></td>
+    <td style="width: 50%; text-align: center;"><a href="https://link-to-project3.com" target="_blank">Project 3</a></td>
+    <td style="width: 50%; text-align: center;"><a href="https://link-to-project6.com" target="_blank">Project 6</a></td>
   </tr>
 </table>
 
