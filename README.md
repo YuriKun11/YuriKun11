@@ -1,4 +1,4 @@
-<h1 align="center">Jan Yuri Reyes</h1>
+<h1 align="center" style= "color: red;">Jan Yuri Reyes</h1>
 <h3 align="center">コンピュータサイエンス学士 @ AMA Computer College La Union</h3>
 <h3 align="left"></h3>
 <p align="left">
@@ -11,17 +11,18 @@
     
 <h3 align="left">Projects</h3>
 
-<table>
+<table width="100%" style="table-layout: fixed;">
   <tr>
-    <td><a href="https://link-to-project1.com" target="_blank">Project 1</a></td>
-    <td><a href="https://link-to-project4.com" target="_blank">Project 4</a></td>
+    <td align="center" width="50%"><a href="https://link-to-project1.com" target="_blank">Project 1</a></td>
+    <td align="center" width="50%"><a href="https://link-to-project4.com" target="_blank">Project 4</a></td>
   </tr>
   <tr>
-    <td><a href="https://link-to-project2.com" target="_blank">Project 2</a></td>
-    <td><a href="https://link-to-project5.com" target="_blank">Project 5</a></td>
+    <td align="center" width="50%"><a href="https://link-to-project2.com" target="_blank">Project 2</a></td>
+    <td align="center" width="50%"><a href="https://link-to-project5.com" target="_blank">Project 5</a></td>
   </tr>
   <tr>
-    <td><a href="https://link-to-project3.com" target="_blank">Project 3</a></td>
-    <td><a href="https://link-to-project6.com" target="_blank">Project 6</a></td>
+    <td align="center" width="50%"><a href="https://link-to-project3.com" target="_blank">Project 3</a></td>
+    <td align="center" width="50%"><a href="https://link-to-project6.com" target="_blank">Project 6</a></td>
   </tr>
 </table>
+
