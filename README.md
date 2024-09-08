@@ -41,7 +41,7 @@
                 <td><a href="https://github.com/YuriKun11/Simple-Email-Service">Email Service</a> - Email Service For your website</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/YuriKun11/pytranslate-bot">Discord Translator Bot</a> - En|Jp Translator</td>
+                <td><a href="https://github.com/YuriKun11/pytranslate-bot">Discord Translator Bot</a> - En | Jp Translator</td>
             </tr>
         </tbody>
 </table>
