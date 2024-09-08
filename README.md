@@ -1,5 +1,5 @@
 <h2 align="center">Jan Yuri Reyes</h2>
-<h3 align="center">コンピュータサイエンス学士 @ AMA Computer College La Union</h3>
+<h3 align="center">コンピュータサイエンス学士</h3>
 <br>
 
     
