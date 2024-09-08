@@ -43,6 +43,7 @@
             </tr>
             <tr>
                 <td><a href="https://github.com/YuriKun11/pytranslate-bot">Discord Translator Bot</a> - En | Jp Translator</td>
+                <td><a href="https://github.com/YuriKun11/Autopush-git">Autopush Git</a> - Automate Git Push Operations</td>
             </tr>
         </tbody>
 </table>
