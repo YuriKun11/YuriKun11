@@ -1,4 +1,4 @@
-<h1 align="center" style= "color: red;">Jan Yuri Reyes</h1>
+<h1 align="center">Jan Yuri Reyes</h1>
 <h3 align="center">コンピュータサイエンス学士 @ AMA Computer College La Union</h3>
 <h3 align="left"></h3>
 <p align="left">
