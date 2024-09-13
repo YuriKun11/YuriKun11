@@ -45,10 +45,6 @@
                 <td><a href="https://github.com/YuriKun11/pytranslate-bot">Discord Translator Bot</a> - En | Jp Translator</td>
                 <td><a href="https://github.com/YuriKun11/Autopush-git">Autopush Git</a> - Automate Git Push Operations</td>
             </tr>
-            <tr>
-                <td><a href="https://github.com/codecrafters-io/build-your-own-x">FORKED</a> - Build your own x</td>
-                <td><a href="https://templatemo.com/">FORKED</a> - Website Templates</td>
-            </tr>
         </tbody>
 </table>
 <h3 align="left">Forked Projects:</h3>
