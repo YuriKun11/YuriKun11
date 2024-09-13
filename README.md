@@ -47,6 +47,7 @@
             </tr>
             <tr>
                 <td><a href="https://github.com/codecrafters-io/build-your-own-x">FORKED</a> - Build your own x</td>
+                <td><a href="https://templatemo.com/">FORKED</a> - Website Templates</td>
             </tr>
         </tbody>
 </table>
