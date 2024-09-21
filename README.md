@@ -1,5 +1,4 @@
 <h2 align="center">Jan Yuri Reyes</h2>
-<h3 align="center">コンピュータサイエンス学士</h3>
 <br>
 
     
