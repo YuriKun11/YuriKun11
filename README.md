@@ -61,6 +61,7 @@
         <tbody>
             <tr>
                 <td><a href="https://github.com/YuriKun11/PhpTutorial">Private notes</a> - Database Guide</td>
+                <td><a href="https://github.com/YuriKun11/">Private notes</a> - React JS</td>
             </tr>
         </tbody>
 </table>
