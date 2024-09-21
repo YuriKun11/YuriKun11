@@ -56,3 +56,11 @@
             </tr>
         </tbody>
 </table>
+<h3 align="left">NOTES:</h3>
+<table align="start">
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/codecrafters-io/build-your-own-x">Private notes</a> - Database Guide</td>
+            </tr>
+        </tbody>
+</table>
