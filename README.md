@@ -59,8 +59,8 @@
 <table align="start">
         <tbody>
             <tr>
-                <td><a href="https://github.com/YuriKun11/PhpTutorial">Private notes</a> - Database Guide</td>
-                <td><a href="https://github.com/YuriKun11/ReactJS">Private notes</a> - MERN STACK</td>
+                <td><a href="https://github.com/YuriKun11/PhpTutorial">Private notes</a> - Lamp Stack</td>
+                <td><a href="https://github.com/YuriKun11/ReactJS">Private notes</a> - Mern Stack</td>
             </tr>
         </tbody>
 </table>
