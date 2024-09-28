@@ -66,7 +66,7 @@
                 <td><a href="https://github.com/YuriKun11/ReactJS">Private notes</a> - Mern Stack</td>
             </tr>
             <tr>
-                <td><a href="">Private notes</a> - Kali Linux</td>     
+                <td><a href="https://github.com/YuriKun11/kali-linux">Private notes</a> - Kali Linux</td>     
             </tr>
         </tbody>
 </table>
