@@ -67,7 +67,7 @@
             </tr>
             <tr>           
                 <td><a href="https://github.com/YuriKun11/kali-linux">Private notes</a> - Kali Linux</td>     
-                <td><a href=" https://github.com/YuriKun11/Intern">Supply Inventory</a> - System</td>     
+                <td><a href="https://github.com/YuriKun11/Intern">Supply Inventory</a> - System</td>     
             </tr>
         </tbody>
 </table>
