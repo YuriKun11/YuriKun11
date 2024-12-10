@@ -1,5 +1,4 @@
-<h2 align="center">Jan Yuri Reyes</h2>
-<br>
+
 
     
 <h3 align="left">Languages and Tools:</h3>
