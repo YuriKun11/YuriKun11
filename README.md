@@ -70,3 +70,19 @@
             </tr>
         </tbody>
 </table>
+
+<h3 align="left">Private Notebook</h3>
+<table align="start">
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/YuriKun11/PhpTutorial">Private notes</a> - Lamp Stack</td>
+                <td><a href="https://github.com/YuriKun11/ReactJS">Private notes</a> - Mern Stack</td>
+            </tr>
+            <tr>           
+                <td><a href="https://github.com/YuriKun11/kali-linux">Private notes</a> - Kali Linux</td>     
+                <td><a href="https://github.com/YuriKun11/Intern">Supply Inventory</a> - System</td>     
+            </tr>
+        </tbody>
+</table>
+
+
