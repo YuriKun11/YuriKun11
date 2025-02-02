@@ -75,7 +75,8 @@
 <table align="start">
         <tbody>
             <tr>
-                <td><a href="https://github.com/YuriKun11/accounts-and-passwords-manager">Acc</a> - Pass</td>
+                <td><a href="https://github.com/YuriKun11/accounts-and-passwords-manager">Top</a> - Secret
+                </td>
            </tr>
         </tbody>
 </table>
